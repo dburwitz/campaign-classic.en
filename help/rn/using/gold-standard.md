@@ -28,6 +28,8 @@ This page lists Gold Standard releases.
 
 For more information on Gold Standard upgrade, refer to this [article](https://helpx.adobe.com/campaign/kb/gold-standard.html).
 
+For definitions of the various colour-coded release statuses, refer to section [Release statuses](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/rn-overview.html#rn-statuses) in [Get started with upgrades](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/rn-overview.html)
+
 ## ![](assets/do-not-localize/limited.png) Gold Standard 10 release{#gs-10}
 
 _7 July 2020_
